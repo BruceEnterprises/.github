@@ -1,4 +1,4 @@
-# Bruce Enterprises is (Bruce Trindade's)[https://github.com/brucetrindade] laboratory for exploring curiosities in your studies.
+# Bruce Enterprises is [Bruce Trindade's](https://github.com/brucetrindade) laboratory for exploring curiosities in your studies.
 
 Currently interested in:
 
