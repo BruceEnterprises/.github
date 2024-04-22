@@ -3,6 +3,6 @@
 Currently interested in:
 
 Android - Kotlin;
+Kotlin Multiplatform - Android and iOS apps;
 Flutter;
-Flutter-Flow (No code);
-CI/CD pipelines and automation;
+CI/CD pipelines and automation.
